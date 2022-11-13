@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the first task of the Electronics Domain. To be here means you are interested in learning about this vast and interconnected field. This task is to help us understand your understanding and learning capabilities. We would also like you to remember throughout the process that if you face any issues during the process, please feel free to approach us at any time through the discord server.
+Welcome to the first task in embedded electronics. To be here means you are interested in learning about this vast and interconnected field. This task is to help us understand your understanding and learning capabilities. We would also like you to remember throughout the process that if you face any issues during the process, please feel free to approach us at any time through the discord server.
 
 Counting is one of the most basic things any machine can do. It is pretty important for all the operations performed by a controller are in sync to ensure smooth operation. For a controller to count it needs a clock through which it can count the time elapsed (just like how we count seconds). One of the most simple Integrated Circuit is called a 555 timer.  This is a very versatile IC and can be used to generate clock pulses of many sorts.
 
