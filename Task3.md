@@ -8,16 +8,16 @@ To make and test your circuit, you will use this [website](https://www.tinkercad
 # Task 3A
 
 Your task should you choose to accept it is to
-- Input data using 4x4 input keypad and have it display it on the LCD
-- Input decimal values, convert them to Hexadecimal values and show them on the LCD.
-
-# Task 3B
-
 - Utilize all the keys on the keypad and add functions.
 	The functionality should be
 	- remap "*" and "#" to be 'E' and 'F'.
 	- Enter Hexadecimal values on the keypad.
 	- press a push button attached seperately to trigger that the Hex phrase has been entered and is ready to be processed and displayed.
+
+# Task 3B
+
+- Input data using 4x4 input keypad and have it display it on the LCD
+- Input decimal values, convert them to Hexadecimal values and show them on the LCD.
 
 # Learning Outcomes
 - Understand the working of the 4x4 keypad
